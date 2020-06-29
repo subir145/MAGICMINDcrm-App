@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Suite name ="Master Testy suite">
+<Suite-files>
+<Suite-file path="E:\Selenium cnf\MagicMindCRMApplication\PMlogin.xml"/>
+<Suite-file path="E:\Selenium cnf\MagicMindCRMApplication\PMbusiness.xml"/>
+<Suite-file path="E:\Selenium cnf\MagicMindCRMApplication\PMtask.xml"/>
+<Suite-file path="E:\Selenium cnf\MagicMindCRMApplication\PMmilestone.xml"/>
+<Suite-file path="E:\Selenium cnf\MagicMindCRMApplication\PMticket.xml"/>
+</Suite-files>
+</Suite>
